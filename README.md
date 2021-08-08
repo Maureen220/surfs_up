@@ -33,7 +33,7 @@ Temperature Statistics for December:
 2. The temperatures in the upper quartiles for those months also only reflected 2-4% differences. 
 3. This location would be ideal for a surf shop based on the similarity of temperatures observed for the extreme points of seasons (summer and winter). 
 
-## *** Summary:***
+## ***Summary:***
 ---
 In conclusion, the investment of a surf shop in this area will not be negatively affected by the weather conditions in Oahu. In addition to reaching this conclusion using the temperatures as guides, precipitation could also be observed in two more queries. Please observe the following histograms: 
 <br/><br/>

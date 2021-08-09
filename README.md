@@ -45,6 +45,6 @@ Precipitation Frequency in December:
 
 ![dec_prcp.png](Resources/dec_prcp.png)
 
-The observation here is that the two months are almost identical when it comes to the frequency of precipitation (which is low) meaning that there no negative affect of percipitation in Oahu. 
+The observation here is that the two months are almost identical when it comes to the frequency of precipitation (which is low) meaning that there no negative affect of precipitation in Oahu. 
 <br/><br/>
 There are still additional queries that could help determine the accuracy of this analysis, such as the number of observations by weather stations and their frequency of recording data, but the consensus of this analysis is that Oahu will meet the weather parameters requested by our primary investors. 

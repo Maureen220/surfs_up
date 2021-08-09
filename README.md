@@ -35,7 +35,7 @@ Temperature Statistics for December:
 
 ## ***Summary:***
 ---
-In conclusion, the investment of a surf shop in this area will not be negatively affected by the weather conditions in Oahu. In addition to reaching this conclusion using the temperatures as guides, precipitation could also be observed in two more queries. Please observe the following histograms: 
+In conclusion, the investment of a surf shop in this area will not be negatively affected by the weather conditions in Oahu. In addition to reaching this conclusion using the temperatures as guides, precipitation could also be observed, as shown in the following.
 <br/><br/>
 Precipitation Frequency in June: 
 
@@ -45,6 +45,6 @@ Precipitation Frequency in December:
 
 ![dec_prcp.png](Resources/dec_prcp.png)
 
-The observation here is that the two months are almost identical when it comes to the frequency of precipitation (which is low) meaning that there is still no negative affect of weather conditions in Oahu. 
+The observation here is that the two months are almost identical when it comes to the frequency of precipitation (which is low) meaning that there no negative affect of percipitation in Oahu. 
 <br/><br/>
 There are still additional queries that could help determine the accuracy of this analysis, such as the number of observations by weather stations and their frequency of recording data, but the consensus of this analysis is that Oahu will meet the weather parameters requested by our primary investors. 
